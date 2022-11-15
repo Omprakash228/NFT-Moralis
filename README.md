@@ -7,7 +7,7 @@ https://moralis.io/how-to-set-up-a-self-hosted-web3-server/
 3. Since the parserAPI doesn't work with self hosted server, made changes to the login method in logic.js
 ![Alt text](/login_change.png?raw=true "Optional Title")
 
-4. Similary Moralis.File() method doesn't work with self hosted servers, so updated the upload method in logic.js
+4. Similarly Moralis.File() method doesn't work with self hosted servers, so updated the upload method in logic.js
 ![Alt text](/upload_change.png?raw=true "Optional Title")
 
 5. Installed the dependencies using the command
